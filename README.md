@@ -20,7 +20,7 @@ This project demonstrates practical skills in data cleaning, exploratory analysi
 ## Key Questions Asked 
 - I'd like to see the data that shows which year had the most visits by patients?
 - Next, let's investigate the 2018 spike. What types of medications were administered during the highest and lowest year visits?
-- In addition, Benzodiazepine looks to be the most used, is this the same medication for genders?
+- In addition, Benzodiazepine looks to be the most used, is this the same medication for gender?
 - Can you pull the data on the most frequently prescribed medication among patients of Hispanic ethnicity?
 - I'd love to see the top ethnicity diagnosed with PTSD?
 - Can you pull the data on MDD females who visited before 2022-02-10?
