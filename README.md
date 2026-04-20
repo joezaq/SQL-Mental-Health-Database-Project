@@ -112,7 +112,7 @@ ORDER BY gender, prescription_count DESC;
 ```
 - *Female: SNRI (58), Male: Benzodiazepine (53)*
 
-####  5. I'd love to see the top ethnicity diagnosed with PTSD?
+####  5. I would love to see the top ethnicity diagnosed with PTSD?
 ```sql
 SELECT 
 	ethnicity,
