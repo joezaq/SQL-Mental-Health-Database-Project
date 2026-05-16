@@ -81,7 +81,7 @@ FROM dataset
 GROUP BY year, medications
 ORDER BY monthly_distinct_visits DESC;
 ```
-- *Benzodiazepine is the most used medication used in 2018 (58)*
+- *Benzodiazepine is the most used medication in 2018 (58)*
 - *SSRI is the most used medication in 2013 (8)*
 
 #### 3. In addition, Benzodiazepine looks to be the most used, is this the same medication for genders?
