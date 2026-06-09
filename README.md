@@ -6,7 +6,7 @@ This project focuses on an OCD patient dataset using **SQL** to discover pattern
 
 This project uses patient data to demonstrate how **SQL can be used to make data-driven decisions in mental health research**, answer real-world questions, and extract meaningful insights from structured data.
 
-This project demonstrates practical skills in data cleaning, exploratory analysis, and healthcare analysis.
+This project demonstrates practical skills in data cleaning, exploratory analysis, and healthcare analysis..
 
 
 ## Project Objectives
